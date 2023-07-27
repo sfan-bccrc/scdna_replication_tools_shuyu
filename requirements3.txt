@@ -63,7 +63,7 @@ hdbscan==0.8.27
 hmmlearn==0.2.5
 idna==2.8
 imagesize==1.2.0
-importlib-metadata==3.7.3
+importlib-metadata==4.4
 iniconfig==1.1.1
 ipaddress==1.0.22
 ipykernel==5.5.0
@@ -172,7 +172,7 @@ rlipython==0.1.2
 ruptures==1.1.6
 saltant-py==0.4.0
 scandir==1.9.0
--e git+ssh://git@github.com/shahcompbio/scdna_replication_tools.git@0c5e8c2716242ba45b3cddace7bd8d04c1020bb8#egg=scdna_replication_tools
+-e git+https://git@github.com/shahcompbio/scdna_replication_tools.git@0c5e8c2716242ba45b3cddace7bd8d04c1020bb8#egg=scdna_replication_tools
 -e git+https://github.com/shahcompbio/scgenome.git@a245b465d7a599af8005f99ba91efeba07e761f5#egg=scgenome
 scikit-learn==0.24.1
 scipy==1.6.1
@@ -184,7 +184,7 @@ singledispatch==3.4.0.3
 six==1.13.0
 snowballstemmer==2.1.0
 sorted-nearest==0.0.33
-Sphinx==1.8.5
+Sphinx==5.1.1
 sphinxcontrib-serializinghtml==1.1.5
 sphinxcontrib-websupport==1.2.4
 statannot==0.2.3
